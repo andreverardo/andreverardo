@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Script Student<br>- HTML5<br>- CSS</p>
+- <p align="left">Hello World! My name is André and I was born in 2007. Since I was a child, I have always been interested in technology and, over time, I discovered a true passion for programming.<br><br>I am currently focused on learning HTML and CSS, taking my first steps in web development. In the future, I intend to attend a college focused on Software Development, where I will be able to deepen my knowledge and explore other areas that also interest me, such as:<br><br>Web Development<br><br>Database Management<br><br>Cybersecurity (although it is not my main focus)</p>
 
 ###
 
