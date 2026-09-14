@@ -29,16 +29,14 @@
 
 <div align="center">
   <h3>📊 Estatísticas</h3>
-  <p>
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=andreverardo&show_icons=true&theme=dark"/>&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andreverardo&theme=dark";
-  
-</div>
-<div>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreverardo&layout=compact&hide=Jupyter%20Notebook&theme=dark"/>
-</div>
+  <p align="center">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=andreverardo&show_icons=true&theme=dark" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreverardo&layout=compact&hide=Jupyter%20Notebook&theme=dark" />
   </p>
+  <p align="center">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=andreverardo&theme=dark" />
+  </p>
+</div>
 
   <h3>🤝 Vamos nos conectar?</h3>
   <p>
