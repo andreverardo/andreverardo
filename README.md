@@ -1,8 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 <div align="center">
   <h1>Olá! Eu sou o André 👋</h1>
   <p>
-    Sou um entusiasta de tecnologia desde criança (nascido em 2007) e hoje trilho meu caminho como desenvolvedor.<br>
-    Atualmente, meu foco de estudo está no desenvolvimento <b>Backend</b>, com forte ênfase na construção de sistemas bem estruturados e escaláveis.
+    Graduando em Engenharia de Software com foco em desenvolvimento <b>Backend Java</b>.<br>
+    Dedicado a construir uma base sólida em Orientação a Objetos, estruturas do Java e boas práticas através de projetos práticos.
   </p>
 
   <br>
@@ -19,19 +20,23 @@
 
 ### 🎓 Sobre Mim
 - 📚 Graduando em **Engenharia de Software** pela **Universidade Cruzeiro do Sul**.
-- 💻 Aprofundando conhecimentos em **Java**, **Programação Orientada a Objetos (POO)** e boas práticas de desenvolvimento de software.
-- 🚀 Em busca da minha primeira oportunidade como estagiário/desenvolvedor júnior.
-- 🌱 Meu aprendizado atual envolve desde a base da Web (HTML, CSS, JS) até a modelagem de entidades e estruturação de dados no backend.
+- 💻 Foco de estudo atual em **Java Core**: fundamentos de **POO** (herança, polimorfismo, encapsulamento, abstração, interfaces e enums), **Collections** (List), tratamento de exceções e APIs de data/hora (`LocalDate`, `LocalDateTime`).
+- 🛠️ Aplicação prática dos conhecimentos em projetos autorais versionados com **Git e GitHub** (como sistemas de combate RPG e consolidadores de conceitos de POO).
+- 🌱 **Próximos objetivos de estudo:** SQL e bancos de dados, desenvolvimento de APIs REST e ecossistema Spring Boot.
+- 🚀 Em busca da minha primeira oportunidade profissional na área de desenvolvimento de software (Estágio / Júnior).
 
 ---
 
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
+  <h3>📊 Estatísticas</h3>
   <p>
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=andreverardo&show_icons=true&theme=radical"/>&nbsp;
-    
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreverardo&layout=compact&hide=Jupyter%20Notebook&theme=radical"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=andreverardo&show_icons=true&theme=dark"/>&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andreverardo&theme=dark";
+  
+</div>
+<div>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreverardo&layout=compact&hide=Jupyter%20Notebook&theme=dark"/>
 </div>
   </p>
 
