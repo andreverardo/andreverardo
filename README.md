@@ -8,10 +8,11 @@
   <br>
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java" />
+  </a>
+</p>
 </div>
 
 ---
