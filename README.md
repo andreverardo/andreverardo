@@ -28,8 +28,11 @@
 <div align="center">
   <h3>📊 Estatísticas do GitHub</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=andreverardo&show_icons=true&theme=radical&locale=pt-br" height="150" alt="Estatísticas do André" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreverardo&layout=compact&theme=radical&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=andreverardo&show_icons=true&theme=radical"/>&nbsp;
+    
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreverardo&layout=compact&hide=Jupyter%20Notebook&theme=radical"/>
+</div>
   </p>
 
   <h3>🤝 Vamos nos conectar?</h3>
