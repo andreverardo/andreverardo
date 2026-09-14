@@ -1,45 +1,34 @@
-<h2 align="left">About Me</h2>
+## Olá! Eu sou o André 👋
 
-###
+Sou um entusiasta de tecnologia desde criança (nascido em 2007) e hoje trilho meu caminho como desenvolvedor. Atualmente, meu foco de estudo está no desenvolvimento **Backend**, com forte ênfase na construção de sistemas bem estruturados e escaláveis.
 
-- <p align="left">Hello World! My name is André and I was born in 2007. Since I was a child, I have always been interested in technology and, over time, I discovered a true passion for programming.<br><br>I am currently focused on learning HTML and CSS, taking my first steps in web development. In the future, I intend to attend a college focused on Software Development, where I will be able to deepen my knowledge and explore other areas that also interest me, such as:<br><br>Web Development<br><br>Database Management<br><br>Cybersecurity (although it is not my main focus)</p>
+### 🎓 Sobre Mim
+- 📚 Graduando em **Engenharia de Software** pela **Universidade Cruzeiro do Sul**.
+- 💻 Aprofundando conhecimentos em **Java**, **Programação Orientada a Objetos (POO)** e boas práticas de desenvolvimento de software.
+- 🚀 Em busca da minha primeira oportunidade como estagiário/desenvolvedor júnior.
+- 🌱 Meu aprendizado atual envolve desde a base da Web (HTML, CSS, JS) até a modelagem de entidades e estruturação de dados no backend.
 
-###
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<h2 align="left">Techs</h2>
+### 📊 Estatísticas do GitHub
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andreverardo&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do André" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreverardo&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreverardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&v=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreverardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&v=1" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreverardo&radius=16&theme=github-dark-dimmed&area=true" height="300" alt="activity-graph graph" />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://x.com/vrtytmk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+### 🤝 Vamos nos conectar?
+<p align="left">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-###
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
