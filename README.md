@@ -38,6 +38,7 @@
   </p>
 </div>
 
+  <div align="center">
   <h3>🤝 Vamos nos conectar?</h3>
   <p>
     <a href="https://www.linkedin.com/in/andré-verardo/" target="_blank">
@@ -48,3 +49,6 @@
     </a>
   </p>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFFFFF&reversal=false&section=footer"/>
+
